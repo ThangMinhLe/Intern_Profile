@@ -210,3 +210,12 @@ span {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+.about1 {
+  display: none;
+}
+
+.about0 {
+  margin-bottom: 190px;
+    padding-bottom: 190px;
+}
